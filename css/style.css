@@ -1238,3 +1238,11 @@ ul.arrow li:hover:before{
    0% {-webkit-transform: scale(0, 0);opacity:0.8;}
    100% {-webkit-transform: scale(1, 1);opacity:0;}
 }
+
+/* Reversedout Eidts Mid 2020 */
+img.team-logo {
+    width: 135px;
+    margin: 0 20%;
+    margin-bottom: 20px;
+    object-fit: fill;
+}
